@@ -1,3 +1,5 @@
+*[Choropleth with Tooltip](https://observablehq.com/@duynguyen1678/choropleth-with-tooltip), React-style.*
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
